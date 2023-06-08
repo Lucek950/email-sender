@@ -37,7 +37,7 @@ spring.mail.default-encoding=UTF-8
 spring.mail.test-connection=false
 ```
 
-$. Create HTML templates for the email messages in the templates folder. You can utilize Thymeleaf for dynamic data population in the templates.
+4. Create HTML templates for the email messages in the templates folder. You can utilize Thymeleaf for dynamic data population in the templates.
 
 5. Run the application using the following command:
 
